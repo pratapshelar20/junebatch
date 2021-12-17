@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoSuite">
+<groups>
+<run>
+<include name="Sanity"></include>
+</run>
+</groups>
+  <test thread-count="5" name="DemoTest">
+    <classes>
+      <class name="com.JuneBatchProject.Test.Test001"/>
+    </classes>
+  </test> <!-- DemoTest -->
+</suite> <!-- DemoSuite -->

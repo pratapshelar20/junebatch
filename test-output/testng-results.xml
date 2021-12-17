@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoSuite (1)" duration-ms="43" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+    <groups>
+      <group name="Sanity">
+        <method signature="Test001.Verify_001()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_001" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_003()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_003" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_005" class="com.JuneBatchProject.Test.Test001"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="Test001.Verify_002()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_002" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_004()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_004" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_005" class="com.JuneBatchProject.Test.Test001"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="DemoTest" duration-ms="43" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+      <class name="com.JuneBatchProject.Test.Test001">
+        <test-method status="PASS" signature="BS()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="BS" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="BT" is-config="true" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="BC()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="BC" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="SetUp" is-config="true" duration-ms="4" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_001()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_001" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_001 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="Verify_002()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_002" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_002 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="SetUp" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_003()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_003" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_003 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_004()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_004" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_004 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="Verify_005" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_005 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="SetUp" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="AC" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="TeatDown" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="AT" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method status="PASS" signature="AS()[pri:0, instance:com.JuneBatchProject.Test.Test001@51c8530f]" name="AS" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.JuneBatchProject.Test.Test001 -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- DemoSuite (1) -->
+  <suite name="DemoSuite (0)" duration-ms="118" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+    <groups>
+      <group name="Sanity">
+        <method signature="Test001.Verify_001()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_001" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_003()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_003" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_005" class="com.JuneBatchProject.Test.Test001"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="Test001.Verify_002()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_002" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_004()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_004" class="com.JuneBatchProject.Test.Test001"/>
+        <method signature="Test001.Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_005" class="com.JuneBatchProject.Test.Test001"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="DemoTest" duration-ms="118" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+      <class name="com.JuneBatchProject.Test.Test001">
+        <test-method status="PASS" signature="BS()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="BS" is-config="true" duration-ms="10" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="BT" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="BC()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="BC" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="SetUp" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_001()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_001" duration-ms="10" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_001 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_002()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_002" duration-ms="3" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_002 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="TeatDown" is-config="true" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_003()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_003" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_003 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="TeatDown" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_004()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_004" duration-ms="3" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_004 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="TeatDown" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="SetUp" is-config="true" duration-ms="1" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_005()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="Verify_005" duration-ms="8" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_005 -->
+        <test-method status="PASS" signature="TeatDown()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="TeatDown" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="AC" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="AT" is-config="true" duration-ms="2" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method status="PASS" signature="AS()[pri:0, instance:com.JuneBatchProject.Test.Test001@77ec78b9]" name="AS" is-config="true" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.JuneBatchProject.Test.Test001 -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- DemoSuite (0) -->
+  <suite name="DemoSuite" duration-ms="0" started-at="2021-12-17T01:10:55 IST" finished-at="2021-12-17T01:10:55 IST">
+    <groups>
+    </groups>
+  </suite> <!-- DemoSuite -->
+</testng-results>
